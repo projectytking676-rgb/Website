@@ -1,0 +1,3 @@
+PROJECT YT Railway migration package
+
+This is a backend starter. It does NOT claim that the Android activities or admin HTML are already migrated. They are copied in their original Firebase-based form under admin/ and android/ for reference. Follow README.md migration sequence before disabling Firebase.
